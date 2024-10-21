@@ -1,2 +1,2 @@
 # Data-Science
-projects' codes are be here
+IBM Data Science Specialization projects' codes are here.
